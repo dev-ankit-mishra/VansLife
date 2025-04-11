@@ -1,0 +1,4 @@
+[build]
+  base = "vanslife"
+  publish = "dist"
+  command = "npm run build"
